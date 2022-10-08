@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "learn react"
+    },
+    {
+      "id": 2,
+      "title": "learn redux"
+    },
+    {
+      "id": 3,
+      "title": "learn react native"
+    },
+    {
+      "title": "chai",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "have tea",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "with me",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
